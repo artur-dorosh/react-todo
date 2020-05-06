@@ -1,0 +1,47 @@
+{
+  "posts": {
+    "todos": [
+      {
+        "id": "0",
+        "title": "Add, mark as Done and remove a note from the main page",
+        "description": "First",
+        "edit": false,
+        "checked": true
+      },
+      {
+        "id": "1",
+        "title": "Edit notes on a separate page",
+        "description": "Second",
+        "edit": false,
+        "checked": false
+      },
+      {
+        "id": "2",
+        "title": "Find a note by name or text inside",
+        "description": "Third",
+        "edit": false,
+        "checked": true
+      },
+      {
+        "id": "3",
+        "title": "Load notes by HTTP request",
+        "description": "Fourth",
+        "edit": false,
+        "checked": false
+      },
+      {
+        "id": "4",
+        "title": "Ability to archive your note and rearchive it back from 'Archive' page",
+        "description": "Fifth",
+        "edit": false,
+        "checked": false
+      }
+    ],
+    "title": "",
+    "description": "",
+    "search": "",
+    "searchResult": [],
+    "edit": 0,
+    "editResult": ""
+  }
+}

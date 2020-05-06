@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+* {
+  color: white;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.popup {
+  background-color: white;
+}
+
+.list-group-item div {
+  word-break: break-all;
+}
+
+.pointer {
+  cursor: pointer;
+}
